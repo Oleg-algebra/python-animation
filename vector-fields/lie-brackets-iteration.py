@@ -137,7 +137,7 @@ class Animation:
                                   interval=1000,
                                   repeat=True)
 
-        animation.save("animated-lie-bracket.mp4", writer='ffmpeg')
+        animation.save("animated-lie-bracket-2.mp4", writer='ffmpeg')
         print("Animation saved")
         plt.show()
 
